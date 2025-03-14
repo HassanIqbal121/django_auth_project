@@ -1,0 +1,8 @@
+{
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "emmet.triggerExpansionOnTab": false,
+    "explorer.excludeGitIgnore": true,
+    "git.allowNoVerifyCommit": true,
+    "git.enableSmartCommit": true,
+    "gitlens.graph.layout": "panel"
+}
